@@ -5,7 +5,7 @@
   --backgroundSize: cover;
   --backgroundRepeat: no-repeat;
   --backgroundBlur: 0;
-  --backgroundOpacity: 1;
+  --backgroundOpacity: 0.5;
 }
 .appMount-3lHmkl, body {
   background-color: var(--backgroundColor) !important;
